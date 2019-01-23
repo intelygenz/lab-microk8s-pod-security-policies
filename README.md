@@ -38,3 +38,4 @@ Building the report tarball
 - [0. Save default kubeconfig](./0.Default-kubeconfig.md)
 - [1. Configure RBAC](./1.Configure-RBAC.md)
 - [2. Create a cluster-admin kubeconfig file](./2.Create-cluster-admin-kubeconfig.md)
+- [3. Create an user space](./3.Create-user-space.md)
