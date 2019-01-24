@@ -40,3 +40,4 @@ Building the report tarball
 - [2. Create a cluster-admin kubeconfig file](./2.Create-cluster-admin-kubeconfig.md)
 - [3. Create an user space](./3.Create-user-space.md)
 - [4. Expose secure API Server](./4.Expose-secure-api-server.md)
+- [5. Modify kubeconfig files to use secure servers][./5.Modify-kubeconfig-secure-server.md]
