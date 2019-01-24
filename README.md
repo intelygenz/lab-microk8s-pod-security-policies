@@ -39,3 +39,4 @@ Building the report tarball
 - [1. Configure RBAC](./1.Configure-RBAC.md)
 - [2. Create a cluster-admin kubeconfig file](./2.Create-cluster-admin-kubeconfig.md)
 - [3. Create an user space](./3.Create-user-space.md)
+- [4. Expose secure API Server](./4.Expose-secure-api-server.md)
