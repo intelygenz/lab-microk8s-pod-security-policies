@@ -43,3 +43,4 @@ Building the report tarball
 - [5. Modify kubeconfig files to use secure servers](./5.Modify-kubeconfig-secure-server.md)
 - [6. Enable Pod Security Policies](./6.Enable-Pod-Security-Policy.md)
 - [7. Configure default Pod Security Policy](./7.Configure-default-pod-security-policy.md)
+- [8. Configure kube-system Pod Security Policy](./8.Configure-kube-system-pod-security-policy.md)
