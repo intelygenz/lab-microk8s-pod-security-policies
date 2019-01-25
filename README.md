@@ -44,3 +44,12 @@ Building the report tarball
 - [6. Enable Pod Security Policies](./6.Enable-Pod-Security-Policy.md)
 - [7. Configure default Pod Security Policy](./7.Configure-default-pod-security-policy.md)
 - [8. Configure kube-system Pod Security Policy](./8.Configure-kube-system-pod-security-policy.md)
+
+## Notes
+
+This is a laboratory and therefore may not function properly. It is designed to show the capabilities offered by pod security policies.
+Following this laboratory is enough to know at a high level the functionality of them.
+
+## Based on
+
+- https://joshrosso.com/posts/setting-up-psps
