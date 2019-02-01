@@ -1,7 +1,7 @@
 apiVersion: policy/v1beta1
 kind: PodSecurityPolicy
 metadata:
-  name: zpermissive
+  name: permissive
 spec:
   privileged: true
   hostNetwork: true
